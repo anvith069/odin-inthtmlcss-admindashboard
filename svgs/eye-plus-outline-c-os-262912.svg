@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Icon: eye-plus-outline
+  Set: Material Design Icons
+  Author: Pictogrammers (https://github.com/Templarian/MaterialDesign)
+  License: Apache 2.0 (https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
+  Source: https://iconify.design
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 24 24"
+     width="24"
+     height="24">
+  <title>Eye with Plus Sign Icon</title>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Eye with Plus Sign Icon</dc:title>
+        <dc:description>A minimalistic icon of an eye with a plus sign, symbolizing visibility, adding views, or increasing focus. Ideal for use in user interface design, analytics, or accessibility-related projects.</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Pictogrammers</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/Templarian/MaterialDesign</dc:source>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Pictogrammers</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license rdf:resource="https://github.com/Templarian/MaterialDesign/blob/master/LICENSE"/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>eye-icon</rdf:li>
+            <rdf:li>visibility-icon</rdf:li>
+            <rdf:li>add-view-icon</rdf:li>
+            <rdf:li>increase-focus-icon</rdf:li>
+            <rdf:li>plus-sign-icon</rdf:li>
+            <rdf:li>user-interface-icon</rdf:li>
+            <rdf:li>UI-design</rdf:li>
+            <rdf:li>UX-design</rdf:li>
+            <rdf:li>analytics-icon</rdf:li>
+            <rdf:li>accessibility-icon</rdf:li>
+            <rdf:li>vision-icon</rdf:li>
+            <rdf:li>eye-symbol</rdf:li>
+            <rdf:li>add-icon</rdf:li>
+            <rdf:li>focus-icon</rdf:li>
+            <rdf:li>attention-icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="https://github.com/Templarian/MaterialDesign/blob/master/LICENSE">
+        <dc:title>Apache 2.0 (Apache-2.0)</dc:title>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path fill="currentColor" d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5c.36 0 .72 0 1.08-.05a6 6 0 0 1-.08-.95c0-.36.04-.72.1-1.08c-.36.04-.73.08-1.1.08c-3.76 0-7.17-2.14-8.82-5.5a9.821 9.821 0 0 1 17.64 0c-.12.24-.26.45-.39.68c.66.16 1.29.43 1.86.82c.27-.5.51-1 .71-1.5c-1.73-4.39-6-7.5-11-7.5M12 9a3 3 0 0 0-3 3a3 3 0 0 0 3 3a3 3 0 0 0 3-3a3 3 0 0 0-3-3m6 5.5v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/>
+</svg>
